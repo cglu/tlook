@@ -1,0 +1,6 @@
+c:\users\luhu\documents\visual studio 2012\Projects\Tokenizer\myTokenizer\bin\Debug\myTokenizer.exe.config
+c:\users\luhu\documents\visual studio 2012\Projects\Tokenizer\myTokenizer\bin\Debug\myTokenizer.exe
+c:\users\luhu\documents\visual studio 2012\Projects\Tokenizer\myTokenizer\bin\Debug\myTokenizer.pdb
+c:\users\luhu\documents\visual studio 2012\Projects\Tokenizer\myTokenizer\obj\Debug\myTokenizer.exe
+c:\users\luhu\documents\visual studio 2012\Projects\Tokenizer\myTokenizer\obj\Debug\myTokenizer.pdb
+c:\users\luhu\documents\visual studio 2012\Projects\Tokenizer\myTokenizer\obj\Debug\myTokenizer.csprojResolveAssemblyReference.cache
