@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://localhost/web_service" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="mantisconnect" targetNamespace="http://localhost/web_service">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://localhost/web_service">
+      <xsd:element name="add">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="in" type="xsd:string"/>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="addResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="out" type="xsd:string"/>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="addRequest">
+    <wsdl:part name="add_a" type="xsd:int"/>
+    <wsdl:part name="add_b" type="xsd:int"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="addResponse">
+    <wsdl:part name="add_res" type="xsd:int"/>
+  </wsdl:message> 
+  <wsdl:message name="cutRequest">
+  	<wsdl:part name="cut_a" type="xsd:int"></wsdl:part>
+  	<wsdl:part name="cut_b" type="xsd:int"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="cutResponse">
+  	<wsdl:part name="cut_res" type="xsd:int"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="get_versionRequest">
+  	<wsdl:part name="get_versionRequest" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="get_versionResponse">
+  	<wsdl:part name="version" type="xsd:string"></wsdl:part>
+  </wsdl:message> 
+  <wsdl:portType name="mantisconnect">
+    <wsdl:operation name="add">
+      <wsdl:input message="tns:addRequest"/>
+      <wsdl:output message="tns:addResponse"/>
+        </wsdl:operation>
+    <wsdl:operation name="get_version">
+    	<wsdl:output message="tns:get_versionResponse"></wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="cut">
+    	<wsdl:input message="tns:cutRequest"></wsdl:input>
+    	<wsdl:output message="tns:cutResponse"></wsdl:output>
+        </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="mantisconnectSOAP" type="tns:mantisconnect">
+  	<soap:binding style="document"
+  		transport="http://schemas.xmlsoap.org/soap/http" />
+  	<wsdl:operation name="add">
+  		<soap:operation
+  			soapAction="http://localhost/web_service/NewOperation" />
+  		<wsdl:input>
+  			<soap:body use="literal" />
+  		</wsdl:input>
+  		<wsdl:output>
+  			<soap:body use="literal" />
+  		</wsdl:output>
+  	</wsdl:operation>
+  	<wsdl:operation name="cut">
+  		<soap:operation soapAction="http://localhost/web_service/cut" />
+  		<wsdl:input>
+  			<soap:body use="literal" />
+  		</wsdl:input>
+  		<wsdl:output>
+  			<soap:body use="literal" />
+  		</wsdl:output>
+  	</wsdl:operation>
+  	<wsdl:operation name="get_version">
+  		<soap:operation
+  			soapAction="http://localhost/web_service/get_version" />
+  		<wsdl:output>
+  			<soap:body use="literal" />
+  		</wsdl:output>
+  	</wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="mantisconnect">
+    <wsdl:port binding="tns:mantisconnectSOAP" name="mantisconnectSOAP">
+      <soap:address location="http://localhost/web_service/soap/mantisconnect.php"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

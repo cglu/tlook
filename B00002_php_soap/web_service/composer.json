@@ -1,0 +1,7 @@
+{
+  "name" : "web_service",
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  } ]
+}
