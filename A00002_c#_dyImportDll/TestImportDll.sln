@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestImportDll", "TestImportDll\TestImportDll.csproj", "{45F145D9-C3AB-437B-9E5B-47120AA607EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLibrary", "CustomLibrary\CustomLibrary.csproj", "{FC153FC5-30E7-4B9F-B11F-4F4384A1BA4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F145D9-C3AB-437B-9E5B-47120AA607EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F145D9-C3AB-437B-9E5B-47120AA607EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F145D9-C3AB-437B-9E5B-47120AA607EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F145D9-C3AB-437B-9E5B-47120AA607EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC153FC5-30E7-4B9F-B11F-4F4384A1BA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC153FC5-30E7-4B9F-B11F-4F4384A1BA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC153FC5-30E7-4B9F-B11F-4F4384A1BA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC153FC5-30E7-4B9F-B11F-4F4384A1BA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

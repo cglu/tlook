@@ -1,0 +1,7 @@
+c:\users\luhu\documents\visual studio 2012\Projects\TestImportDll\CustomLibrary\bin\Debug\CustomLibrary.dll
+c:\users\luhu\documents\visual studio 2012\Projects\TestImportDll\CustomLibrary\bin\Debug\CustomLibrary.pdb
+c:\users\luhu\documents\visual studio 2012\Projects\TestImportDll\CustomLibrary\obj\Debug\CustomLibrary.csprojResolveAssemblyReference.cache
+c:\users\luhu\documents\visual studio 2012\Projects\TestImportDll\CustomLibrary\obj\Debug\CustomLibrary.dll
+c:\users\luhu\documents\visual studio 2012\Projects\TestImportDll\CustomLibrary\obj\Debug\CustomLibrary.pdb
+c:\users\luhu\documents\visual studio 2012\Projects\TestImportDll\TestImportDll\bin\Debug\App\CustomLibrary.dll
+c:\users\luhu\documents\visual studio 2012\Projects\TestImportDll\TestImportDll\bin\Debug\App\CustomLibrary.pdb
