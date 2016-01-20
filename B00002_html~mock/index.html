@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script src="http://mockjs.com/dist/mock.js"></script>
+<script src="jquery-2.2.0.min.js"></script>
+<script src="mock.js"></script>
+<script>
+	$( document ).ready(function(){
+		$.ajax({
+    url: 'http://g.cn',
+    dataType:'json'
+    }).done(function(data, status, xhr){
+     $('<pre>').text(JSON.stringify(data, null, 4))
+        .appendTo('body');
+});
+
+		
+	} );
+	
+</script>
+</head>
+<body>
+
+</body>
+</html>

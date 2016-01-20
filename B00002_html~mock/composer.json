@@ -1,0 +1,7 @@
+{
+  "name" : "A04-mock.js.test",
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  } ]
+}
