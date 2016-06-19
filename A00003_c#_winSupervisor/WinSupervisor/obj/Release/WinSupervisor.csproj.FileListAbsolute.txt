@@ -1,0 +1,5 @@
+C:\Users\luhu\Documents\Visual Studio 2008\Projects\WinSupervisor\WinSupervisor\bin\Release\WinSupervisor.exe
+C:\Users\luhu\Documents\Visual Studio 2008\Projects\WinSupervisor\WinSupervisor\bin\Release\WinSupervisor.pdb
+C:\Users\luhu\Documents\Visual Studio 2008\Projects\WinSupervisor\WinSupervisor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\luhu\Documents\Visual Studio 2008\Projects\WinSupervisor\WinSupervisor\obj\Release\WinSupervisor.exe
+C:\Users\luhu\Documents\Visual Studio 2008\Projects\WinSupervisor\WinSupervisor\obj\Release\WinSupervisor.pdb
