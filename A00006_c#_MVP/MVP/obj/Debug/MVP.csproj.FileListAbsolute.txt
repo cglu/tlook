@@ -1,0 +1,9 @@
+c:\users\luhu\documents\visual studio 2015\Projects\MVP\MVP\bin\Debug\MVP.exe.config
+c:\users\luhu\documents\visual studio 2015\Projects\MVP\MVP\bin\Debug\MVP.exe
+c:\users\luhu\documents\visual studio 2015\Projects\MVP\MVP\bin\Debug\MVP.pdb
+c:\users\luhu\documents\visual studio 2015\Projects\MVP\MVP\obj\Debug\MVP.Properties.Resources.resources
+c:\users\luhu\documents\visual studio 2015\Projects\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.Cache
+c:\users\luhu\documents\visual studio 2015\Projects\MVP\MVP\obj\Debug\MVP.exe
+c:\users\luhu\documents\visual studio 2015\Projects\MVP\MVP\obj\Debug\MVP.pdb
+c:\users\luhu\documents\visual studio 2015\Projects\MVP\MVP\obj\Debug\MVP.Form1.resources
+c:\users\luhu\documents\visual studio 2015\Projects\MVP\MVP\bin\Debug\WinFormsMvp.dll
