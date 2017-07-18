@@ -1,0 +1,8 @@
+C:\Users\luhu\Documents\Visual Studio 2017\Projects\Spider\Spider\bin\Release\Spider.exe
+C:\Users\luhu\Documents\Visual Studio 2017\Projects\Spider\Spider\bin\Release\Spider.pdb
+C:\Users\luhu\Documents\Visual Studio 2017\Projects\Spider\Spider\bin\Release\Newtonsoft.Json.dll
+C:\Users\luhu\Documents\Visual Studio 2017\Projects\Spider\Spider\obj\Release\Spider.Form1.resources
+C:\Users\luhu\Documents\Visual Studio 2017\Projects\Spider\Spider\obj\Release\Spider.Properties.Resources.resources
+C:\Users\luhu\Documents\Visual Studio 2017\Projects\Spider\Spider\obj\Release\Spider.csproj.GenerateResource.Cache
+C:\Users\luhu\Documents\Visual Studio 2017\Projects\Spider\Spider\obj\Release\Spider.exe
+C:\Users\luhu\Documents\Visual Studio 2017\Projects\Spider\Spider\obj\Release\Spider.pdb

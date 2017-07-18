@@ -1,0 +1,9 @@
+c:\users\luhu\documents\visual studio 2017\Projects\Spider\Spider\bin\Debug\Spider.exe
+c:\users\luhu\documents\visual studio 2017\Projects\Spider\Spider\bin\Debug\Spider.pdb
+c:\users\luhu\documents\visual studio 2017\Projects\Spider\Spider\obj\Debug\Spider.Form1.resources
+c:\users\luhu\documents\visual studio 2017\Projects\Spider\Spider\obj\Debug\Spider.Properties.Resources.resources
+c:\users\luhu\documents\visual studio 2017\Projects\Spider\Spider\obj\Debug\Spider.csproj.GenerateResource.Cache
+c:\users\luhu\documents\visual studio 2017\Projects\Spider\Spider\obj\Debug\Spider.exe
+c:\users\luhu\documents\visual studio 2017\Projects\Spider\Spider\obj\Debug\Spider.pdb
+C:\Users\luhu\documents\visual studio 2017\Projects\Spider\Spider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luhu\Documents\Visual Studio 2017\Projects\Spider\Spider\obj\Debug\Spider.csprojResolveAssemblyReference.cache
