@@ -1,0 +1,10 @@
+C:\Users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\bin\Release\ESekisanSpider.exe.config
+C:\Users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\bin\Release\ESekisanSpider.exe
+C:\Users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\bin\Release\ESekisanSpider.pdb
+C:\Users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\obj\Release\ESekisanSpider.csproj.ResolveComReference.cache
+C:\Users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\obj\Release\ESekisanSpider.Form1.resources
+C:\Users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\obj\Release\ESekisanSpider.Properties.Resources.resources
+C:\Users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\obj\Release\ESekisanSpider.csproj.GenerateResource.Cache
+C:\Users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\obj\Release\ESekisanSpider.exe
+C:\Users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\obj\Release\ESekisanSpider.pdb
+C:\Users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\bin\Release\app.config

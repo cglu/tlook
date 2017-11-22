@@ -1,0 +1,9 @@
+c:\users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\bin\Debug\ESekisanSpider.exe
+c:\users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\bin\Debug\ESekisanSpider.pdb
+c:\users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\obj\Debug\ESekisanSpider.Form1.resources
+c:\users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\obj\Debug\ESekisanSpider.Properties.Resources.resources
+c:\users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\obj\Debug\ESekisanSpider.csproj.GenerateResource.Cache
+c:\users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\obj\Debug\ESekisanSpider.exe
+c:\users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\obj\Debug\ESekisanSpider.pdb
+c:\users\luhu\documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\obj\Debug\ESekisanSpider.csproj.ResolveComReference.cache
+C:\Users\luhu\Documents\visual studio 2017\Projects\ESekisanSpider\ESekisanSpider\bin\Debug\ESekisanSpider.exe.config
